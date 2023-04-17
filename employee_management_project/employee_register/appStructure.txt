@@ -1,0 +1,17 @@
+employee_project
+├── employee_register
+│   ├── migrations
+│   ├── templates
+│   │   └── employee_register
+│   │       ├── base.html
+│   │       ├── employee_form.html
+│   │       ├── employee_list.html
+│   │       └── bootstrap4
+│   │           └── uni_form.html
+│   ├── models.py
+│   ├── forms.py
+│   ├── urls.py
+│   └── views.py
+└── employee_project
+    ├── settings.py
+    └── urls.py
